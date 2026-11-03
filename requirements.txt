@@ -1,0 +1,11 @@
+# Install CUDA torch separately and build minepy first: see README.md.
+torch==2.5.1
+numpy==1.26.4
+scipy==1.13.1
+matplotlib==3.9.2
+opencv-python-headless==4.10.0.84
+rich==13.9.4
+minepy==1.2.6
+Cython==0.29.37
+setuptools==75.3.0
+wheel==0.44.0
